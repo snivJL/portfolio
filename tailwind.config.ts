@@ -50,6 +50,10 @@ const config: Config = {
           "4": "hsl(var(--chart-4))",
           "5": "hsl(var(--chart-5))",
         },
+        backgroundImage: {
+          "home-gradient":
+            "linear-gradient(146deg, rgba(22,11,31,1) 0%, rgba(227,104,35,1) 62%, rgba(112,46,178,1) 100%)",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
