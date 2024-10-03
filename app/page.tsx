@@ -1,5 +1,4 @@
 import BlurCard from "@/components/blur-card";
-import ClientCard from "@/components/client-card";
 import { Button } from "@/components/ui/button";
 import {
   Card,
@@ -85,9 +84,9 @@ export default function Portfolio() {
               in React, Node.js, and cloud technologies.
             </p>
             <p className="text-lg mb-4">
-              When I'm not coding, you can find me exploring new technologies,
-              contributing to open-source projects, or enjoying a good cup of
-              coffee.
+              When I&apos;m not coding, you can find me exploring new
+              technologies, contributing to open-source projects, or enjoying a
+              good cup of coffee.
             </p>
             <Button variant="outline">Download Resume</Button>
           </div>

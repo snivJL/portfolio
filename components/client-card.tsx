@@ -14,6 +14,7 @@ type Props = {
 };
 
 export default function ClientCard({ client }: Props) {
+  console.log(client);
   return (
     <Card className="relative w-full mx-auto rounded-xl">
       <div
